@@ -2,6 +2,7 @@
 # author:chenmeng
 # datetime:2019/2/15 16:34
 # software: PyCharm
+#test
 import tensorflow as tf
 import thulac
 
